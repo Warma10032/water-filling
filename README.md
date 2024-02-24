@@ -6,3 +6,5 @@
 该问题经过求解KKT条件后转化为：
 
 ![image-20240223000305557](README/image-20240223000305557.png)
+如果有所帮助，请点一个小星星或者关注本人的GitHub，万分感谢。
+If it helps, please click on starred or follow my GitHub, thank you very much.
